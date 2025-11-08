@@ -9,8 +9,8 @@
 
 
 ## مثال
-<img src="images/first.png" alt="." width="1000">
 
+![example](images/first.png)
 ## التحميل والتشغيل :
 ```
 git clone https://github.com/limeeee48/limewhich.git
