@@ -9,7 +9,7 @@
 
 
 ## مثال
-<img src="images/1.png" alt="." width="1000">
+<img src="images/first.png" alt="." width="1000">
 
 ## التحميل والتشغيل :
 ```
