@@ -3,9 +3,9 @@
 banner()
 {
 if which cowsay &> /dev/null ; then
-	cowsay lime ; exit 0
+	cowsay hey from cowsay ; exit 0
 elif which pyfiglet &> /dev/null ; then
-	pyfiglet lime ; exit 0
+	pyfiglet hey from pyfiglet ; exit 0
 else
 	echo """⠀⠀⠀ ⠀⡠⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⡑⢄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢮⣣⡀⠀⠀⠀
