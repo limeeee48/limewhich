@@ -13,8 +13,8 @@
 ![example](images/first.png)
 ## التحميل والتشغيل :
 ```
-git clone https://github.com/limeeee48/limewhich.git
-cd limewhich
+git clone https://github.com/limeeee48/limewhich.git;\
+cd limewhich;\
 python3 limewhich.py
 ```
 ## من فوائد الأداة🎯 : 
@@ -32,8 +32,8 @@ python3 limewhich.py
 ![exmple](images/exmple.png)
 ## لتجريب الكود : 
 ```
-cd test
-chmod +x use-which.sh
+cd test;\
+chmod +x use-which.sh;\
 ./use-which.sh
 ```
 ### ماذا يفعل الكود ؟ 
