@@ -30,4 +30,10 @@ python3 limewhich.py
 ## مثال على فحص وجود الأدوات لتجنب الأخطاء :
 
 ![exmple](images/exmple.png)
-## الكود للتجريب :
+## لتجريب الكود : 
+```
+cd test
+chmod +x use-which.sh
+./use-which.sh
+```
+### ماذا يفعل الكود ؟ 
