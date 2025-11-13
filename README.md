@@ -12,7 +12,7 @@
 
 ![example](images/first.png)
 ## التحميل والتشغيل :
-```
+```bash
 git clone https://github.com/limeeee48/limewhich.git;\
 cd limewhich;\
 python3 limewhich.py
@@ -31,7 +31,7 @@ python3 limewhich.py
 
 ![exmple](images/exmple.png)
 ## لتجريب الكود : 
-```
+```bash
 cd test;\
 chmod +x use-which.sh;\
 ./use-which.sh
@@ -45,7 +45,7 @@ chmod +x use-which.sh;\
 ## أوامر جاهزة (للفهم من خلال التجربة) :
 في هذا الجزء يمكنك من خلال التجريب فهم امور مهمة . افضل طريقة للفهم هي التجربة 
 ### 1 . أمر عرض جميع مجلدات الباينري بطريقة منظمة :
-```
+```bash
 echo $PATH | sed 's/:/\n/g'
 ```
 
@@ -73,7 +73,7 @@ echo $PATH | sed 's/:/\n/g'
 للقيام بهذه العملية نستعمل امر export وهو امر يعمل على أضافة او تعديل متغيرات بيئية يعني من خلاله يمكننا اضافة قيمة جديدة للمتغير PATH
 
 ### امر الاضافة :  
-```
+```bash
 mkdir ~/Desktop/my_bin;\
 export PATH="$PATH:~/Desktop/my_bin"
 ```
